@@ -299,4 +299,3 @@ if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     document.documentElement.style.setProperty('--transition-normal', '0s');
     document.documentElement.style.setProperty('--transition-slow', '0s');
 }
-
